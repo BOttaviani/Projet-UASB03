@@ -1,4 +1,4 @@
-# Projet-UASB03
+# Projet-UASB03 : Entreposage et fouille de données massives
 
 Projet d'analyse de sentiments sur les commentaires Airbnb
 
