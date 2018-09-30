@@ -1,4 +1,7 @@
 # Projet-UASB03
+
+Projet d'analyse de sentiments sur les commentaires Airbnb
+
 Le projet suit les étapes suivantes :
 
 1 - Détermination de la langue des commentaires pour ne traiter que la langue française
